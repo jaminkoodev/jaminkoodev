@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/jmkoo98-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jamin Koo-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
 </div>
+
 ## 💪Skills
 
 ### Paltforms & Languages

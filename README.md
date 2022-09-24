@@ -7,7 +7,7 @@
 
 ## 💪Skills
 
-### Paltforms & Languages
+### 📈Paltforms & Languages
 <div>
 <!-- Android -->
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </div>
 
-### Tools
+### 🔧Tools
 <div>
   <!-- Jetpack Compose -->
   <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>

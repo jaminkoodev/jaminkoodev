@@ -13,6 +13,10 @@ My background is in backend engineering and Kafka-based streaming systems. I am 
 - **Production AI** — reproducible and operable AI workloads rather than demo-only prototypes
 - **Research Engineering** — experiment design, reproducibility, evidence tracking, and careful validation
 
+## Selected Work
+
+- **[stt-ingest-runtime](https://github.com/jaminkoodev/stt-ingest-runtime)** — A file-based speech-to-text job runtime with stable-file detection, deduplication, atomic job claims, crash recovery, and automated tests. It reflects my interest in reliable ML systems and MLOps.
+
 ## Background
 
 - M.S. student, **Convergence Intelligence & Big Data**, Dankook University

@@ -17,6 +17,7 @@ My background is in backend engineering and Kafka-based streaming systems. I am 
 
 - **[stt-ingest-runtime](https://github.com/jaminkoodev/stt-ingest-runtime)** — A file-based speech-to-text job runtime with stable-file detection, deduplication, atomic job claims, crash recovery, and automated tests. It reflects my interest in reliable ML systems and MLOps.
 - **[agent-hub-dashboard](https://github.com/jaminkoodev/agent-hub-dashboard)** — A local dashboard for coding-agent sessions and orchestration state, with filesystem discovery, WebSocket updates, and optional multi-machine aggregation. The public edition uses portable examples and local-only defaults.
+- **[transcript-timeline-core](https://github.com/jaminkoodev/transcript-timeline-core)** — Deterministic utilities for segmenting timestamped transcripts while preserving exact source offsets, grouping adjacent timeline parts, and parsing human-readable times.
 
 ## Background
 
